@@ -1,20 +1,20 @@
 # Análise do Mercado de Medicamentos no Tratamento do Câncer de Próstata: Tendências e Previsões de venda
 
-Este projeto tem como objetivo analisar tendências de mercado e prever a demanda futura de medicamentos utilizados no tratamento de câncer de próstata no Brasil, com foco em casos metastáticos. A análise foi realizada com dados dos últimos 24 meses e implementada em um pipeline de dados na nuvem utilizando a plataforma *Databricks Community Edition, integrando com **Power BI* para visualizações interativas.
+Este projeto tem como objetivo analisar tendências de mercado e prever a demanda futura de medicamentos utilizados no tratamento de câncer de próstata no Brasil, com foco em casos metastáticos. A análise foi realizada com dados dos últimos 24 meses e implementada em um pipeline de dados na nuvem utilizando a plataforma *Databricks Community Edition, juntamente com **Power BI* para visualizações interativas.
 
 ---
 
 ## 1. Objetivo
 
-Analisar o mercado de medicamentos para câncer de próstata no Brasil, utilizando modelagem em camadas (Bronze, Silver e Gold), estrutura em esquema estrela e técnicas de machine learning para previsão de demanda.
+Analisar o mercado de medicamentos de câncer de próstata no Brasil, utilizando modelagem em camadas (Bronze, Silver e Gold), estruturando em esquema estrela e utilizando técnicas de machine learning para previsão de demanda.
 
 ---
 
 ## 2. Pipeline de Dados
 
-- *Bronze Layer*: Ingestão dos arquivos brutos (CSV).
-- *Silver Layer*: Limpeza, transformação e estruturação em modelo dimensional (esquema estrela).
-- *Gold Layer*: Dados prontos para consumo analítico, incluindo previsões de vendas.
+- *Bronze*: Ingestão dos arquivos brutos (CSV).
+- *Silver*: Limpeza, transformação e estruturação em modelo dimensional (esquema estrela).
+- *Gold*: Dados prontos para consumo analítico, incluindo previsões de vendas.
 
 ---
 
