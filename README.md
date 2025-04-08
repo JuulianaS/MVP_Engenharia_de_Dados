@@ -67,7 +67,7 @@ As etapas foram concluídas com sucesso. Dificuldades enfrentadas envolveram:
 | *[1_Analise_e_processos_realizados_documentação.pdf](1_Analise_e_processos_realizados_documentação.pdf)* | O documento completo com todas as respostas do MVP, justificativas técnicas, decisões de modelagem e print do projeto |
 | *[2_Pipeline_de_Execução_Databricks_Community.ipynb](2_Pipeline_de_Execução_Databricks_Community.ipynb)* | Notebook com o pipeline de ingestão, transformação, modelagem e previsão implementado no Databricks |
 | *[3_Screenshot_Diagrama_Estrela.jpg](3_Screenshot_Diagrama_Estrela.jpg)* | Imagem do diagrama de modelagem em esquema estrela |
-| *[4_Arquivo_Desenvolvido_Power_BI.pbix](4_Arquivo_Desenvolvido_Power_BI.pbix)4_Arquivo_Desenvolvido_Power_BI.pbix* | Arquivo com o dashboard final desenvolvido no Power BI |
+| *[4_Arquivo_Desenvolvido_Power_BI.pbix](4_Arquivo_Desenvolvido_Power_BI.pbix)* | Arquivo com o dashboard final desenvolvido no Power BI |
 | *[4_Screenshot_Dashboard_Power_BI.png](4_Screenshot_Dashboard_Power_BI.png)* | Captura de tela do dashboard final |
 | *[Demanda_Medicamentos.csv](Demanda_Medicamentos.csv)* | Base de dados original fornecida pela IQVIA contendo informações de vendas mensais de medicamentos para o tratamento do câncer de próstata |
 | *[README.md](README.md)* | Este arquivo com a descrição geral do projeto e instruções |
