@@ -6,7 +6,7 @@ Este projeto tem como objetivo analisar tendências de mercado e prever a demand
 
 ## 1. Objetivo
 
-Analisar o mercado de medicamentos de câncer de próstata no Brasil, utilizando modelagem em camadas (Bronze, Silver e Gold), estruturando em esquema estrela e utilizando técnicas de machine learning para previsão de demanda.
+Analisar o mercado nacional de medicamentos para câncer de próstata com dados dos últimos 24 meses, aplicando técnicas de BI e previsão, e estruturando os dados para consumo analítico.
 
 ---
 
