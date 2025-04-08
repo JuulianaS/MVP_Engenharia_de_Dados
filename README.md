@@ -29,7 +29,7 @@ O modelo segue um *esquema estrela*, com a seguinte estrutura:
 - dim_produto: Detalhes dos medicamentos.
 - dim_local: Informações geográficas e canais de venda.
 
-> Veja o diagrama de dados na pasta [3_Screenshot_Diagrama_Estrela.jpg](Diagrama_Estrela).
+> Veja o diagrama de dados na pasta [Diagrama_Estrela](3_Screenshot_Diagrama_Estrela.jpg).
 
 ---
 
