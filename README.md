@@ -29,13 +29,13 @@ O modelo segue um *esquema estrela*, com a seguinte estrutura:
 - dim_produto: Detalhes dos medicamentos.
 - dim_local: Informações geográficas e canais de venda.
 
-> Veja o diagrama de dados na pasta [Diagrama_Estrela](3_Screenshot_Diagrama_Estrela.jpg).
+> Veja o diagrama de dados [Diagrama_Estrela](3_Screenshot_Diagrama_Estrela.jpg).
 
 ---
 
 ## 4. Previsões
 
-Utilizou-se o modelo *GBTRegressor* para prever as vendas futuras (fev/2025 a dez/2025). Um ajuste manual foi feito para *jul/2025*, utilizando a média de jun e ago/2025, devido a um pico atípico identificado na projeção.
+Utilizou-se o modelo *GBTRegressor* para prever as vendas futuras (fev/2025 a dez/2025). Um ajuste manual foi feito para *jul/2025*, utilizando a média de jun e ago/2025, devido a um pico atípico identificado na projeção no Power BI.
 
 ---
 
