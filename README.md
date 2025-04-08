@@ -29,7 +29,7 @@ O modelo segue um *esquema estrela*, com a seguinte estrutura:
 - dim_produto: Detalhes dos medicamentos.
 - dim_local: Informações geográficas e canais de venda.
 
-> Veja o diagrama de dados na pasta [/docs](docs).
+> Veja o diagrama de dados na pasta [3_Screenshot_Diagrama_Estrela.jpg](Diagrama_Estrela).
 
 ---
 
@@ -64,7 +64,7 @@ As etapas foram concluídas com sucesso. Dificuldades enfrentadas envolveram:
 
 O documento completo com todas as respostas do MVP, justificativas técnicas, decisões de modelagem e prints está disponível no link abaixo:
 
-[📄 Acesse aqui o documento em PDF](docs/1_Analise_e_processos_realizados_documentação.pdf)
+[📄 Acesse aqui o documento em PDF](1_Analise_e_processos_realizados_documentação.pdf)
 
 ---
 
