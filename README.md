@@ -1,7 +1,4 @@
-# MVP_Engenharia_de_Dados
-Análise do Mercado de Medicamentos no Tratamento do Câncer de Próstata: Tendências e Previsões de venda
-
-# Análise de Vendas de Medicamentos para Câncer de Próstata
+# Análise do Mercado de Medicamentos no Tratamento do Câncer de Próstata: Tendências e Previsões de venda
 
 Este projeto tem como objetivo analisar tendências de mercado e prever a demanda futura de medicamentos utilizados no tratamento de câncer de próstata no Brasil, com foco em casos metastáticos. A análise foi realizada com dados dos últimos 24 meses e implementada em um pipeline de dados na nuvem utilizando a plataforma *Databricks Community Edition, integrando com **Power BI* para visualizações interativas.
 
