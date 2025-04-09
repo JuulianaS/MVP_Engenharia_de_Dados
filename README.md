@@ -47,6 +47,7 @@ As análises foram desenvolvidas no *Power BI* e incluem:
 - Ranking por UF, cidade e canal
 - Análise por tipo de medicamento
 - Participação nacional vs internacional
+
 ![Dashboard](4_Screenshot_Dashboard_Power_BI.png)
 
 
