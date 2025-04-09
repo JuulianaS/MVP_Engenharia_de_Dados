@@ -88,5 +88,4 @@ As etapas foram concluídas com sucesso. Dificuldades enfrentadas envolveram:
 
 ## 9. Autora
 
-Desenvolvido por Juliana Silva 
-Business Systems Analyst | IQVIA
+Desenvolvido por Juliana Silva
